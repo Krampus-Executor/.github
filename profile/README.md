@@ -1,4 +1,4 @@
-# Krampus Executor — Advanced Lua Execution Tool for Roblox
+# Krampus Executor 
 
 Krampus Executor is a powerful and intuitive Lua executor built for Roblox, designed for safe and stable script execution. With real-time injection, script hub integration, and a stealth anti-ban engine, it’s the perfect tool for developers and gamers alike.
 
